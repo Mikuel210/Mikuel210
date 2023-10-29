@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mikuel210
-- 👀 I’m interested in Python for scripts and web development
+- 👀 I’m interested in Python, C# for Unity and web development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on C# proyects
 
