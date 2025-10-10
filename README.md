@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mikuel210
-- 👀 I’m interested in C#
+- 👀 I’m interested in C# & Hardware!
 - 🌱 I’m currently learning Avalonia UI
 - 💞️ I’m looking to collaborate!
 
