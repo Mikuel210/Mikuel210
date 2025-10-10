@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mikuel210
-- 👀 I’m interested in Python, C# for Unity and web development
-- 🌱 I’m currently learning Ruby & Rails
-- 💞️ I’m looking to collaborate on C# or Python proyects
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Avalonia UI
+- 💞️ I’m looking to collaborate!
 
 <!---
 Mikuel210/Mikuel210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
